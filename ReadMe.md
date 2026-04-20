@@ -1,15 +1,71 @@
-# 💫 About Me:
-Hi 👋, I'm Arjun Maurya<br><br>🎓 Bachelor of Science in Information Technology undergraduate (6th Semester) at PTU, Punjab<br>📊 Aspiring Data Analyst | Passionate about data-driven insights<br>🔍 Love exploring real-world datasets, building dashboards & telling stories with data<br>🚀 Currently leveling up in Python, SQL, Pandas & Data Visualization
+# 👋 Hi, I'm Arjun Maurya
 
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Arjun-Maurya-78&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Arjun-Maurya-78&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arjun-Maurya-78&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 B.Sc. Information Technology (6th Semester) | PTU, Punjab  
+📊 Aspiring Data Analyst | Turning data into insights  
+🚀 Passionate about dashboards, analytics & storytelling  
 
 ---
-[![](https://komarev.com/ghpvc/?username=Arjun-Maurya-78&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💡 About Me
+- 🔍 Exploring real-world datasets & solving business problems  
+- 📈 Building interactive dashboards using Power BI  
+- 🐍 Learning Python for data analysis (Pandas, NumPy)  
+- 🧠 Strong interest in SQL, Data Cleaning & Visualization  
+- 🎯 Goal: Become a skilled Data Analyst  
+
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Data & Analytics
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🌐 Web Basics
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=Arjun-Maurya-78&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![](https://streak-stats.demolab.com/?user=Arjun-Maurya-78&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arjun-Maurya-78&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## 📌 Featured Skills
+✔ Data Cleaning  
+✔ Data Visualization  
+✔ Dashboard Creation  
+✔ SQL Queries  
+✔ Problem Solving  
+
+---
+
+## 🚀 Currently Learning
+- Advanced SQL  
+- Python (Pandas, Matplotlib)  
+- Data Visualization Best Practices  
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: *(add your link here)*
+- 📧 Email: *(add your email here)*
+
+---
+
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=Arjun-Maurya-78&color=blue)
+
+---
+
+⭐ *"Data is the new oil, but insights are the real fuel."*
