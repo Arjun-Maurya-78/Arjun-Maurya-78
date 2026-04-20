@@ -25,8 +25,6 @@ Hi 👋, I'm Arjun Maurya<br><br>🎓 B.Sc. Information Technology (6th Semester
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arjun-Maurya-78&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Arjun-Maurya-78&label=Profile%20Views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
-
 > ⭐ *"Without data, you're just another person with an opinion."*
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
