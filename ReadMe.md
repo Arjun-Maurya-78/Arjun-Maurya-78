@@ -2,8 +2,8 @@
 Hi 👋, I'm Arjun Maurya<br><br>🎓 B.Sc. Information Technology (6th Semester) at PTU, Punjab<br>📊 Aspiring Data Analyst | Turning data into insights<br>🚀 Passionate about dashboards, analytics & storytelling with data<br>🔍 Solving real-world problems using data | Building dashboards in Power BI & Tableau<br>🐍 Learning Python (Pandas, NumPy, Matplotlib) | Strong in SQL & Data Visualization<br>🎯 Goal: Data Analyst in a product-based company
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/arjun-maurya-78-19b0b52a9](https://www.linkedin.com/feed/))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:add-your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-maurya-78-19b0b52a9)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunmaurya3837@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
 
 # 💻 Tech Stack:
