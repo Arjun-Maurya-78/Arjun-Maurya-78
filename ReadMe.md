@@ -1,8 +1,23 @@
 # 💫 About Me:
-Hi 👋, I'm Arjun Maurya<br><br>🎓 Bachelor of Science in Information Technology undergraduate (6th Semester) at PTU, Punjab<br>📊 Aspiring Data Analyst | Turning data into insights<br>🚀 Passionate about dashboards, analytics & storytelling with data<br>🔍 Solving real-world problems using data | Goal: Data Analyst in a product-based company
+Hi 👋, I'm Arjun Maurya<br><br>🎓 B.Sc. Information Technology (6th Semester) at PTU, Punjab<br>📊 Aspiring Data Analyst | Turning data into insights<br>🚀 Passionate about dashboards, analytics & storytelling with data<br>🔍 Solving real-world problems using data | Building dashboards in Power BI<br>🐍 Learning Python (Pandas, NumPy, Matplotlib) | Strong in SQL & Data Visualization<br>🎯 Goal: Data Analyst in a product-based company
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/add-your-link)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:add-your-email)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
 
 # 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+# 🚀 Projects:
+### 📊 Sales Dashboard (Power BI)
+> Built an interactive dashboard to analyze sales performance · KPIs: Revenue, Profit, Region-wise Sales · Dynamic slicers for filtering · 📌 Power BI, Excel · [🔗 Project Link](#)
+
+### 🛒 E-commerce Data Analysis
+> Cleaned & analyzed dataset using Python · Pandas for preprocessing · Insights on customer behavior · 📌 Python, Pandas, Matplotlib · [🔗 Project Link](#)
+
+### 📈 SQL Data Analysis
+> Joins, subqueries & aggregations · Solved business case problems · 📌 MySQL · [🔗 Project Link](#)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Arjun-Maurya-78&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -10,6 +25,8 @@ Hi 👋, I'm Arjun Maurya<br><br>🎓 Bachelor of Science in Information Technol
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arjun-Maurya-78&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Arjun-Maurya-78&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Arjun-Maurya-78&label=Profile%20Views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
+
+> ⭐ *"Without data, you're just another person with an opinion."*
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
