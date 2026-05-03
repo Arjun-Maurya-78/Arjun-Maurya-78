@@ -11,7 +11,7 @@ Hi 👋, I'm Arjun Maurya<br><br>🎓 B.Sc. Information Technology (6th Semester
 
 # 🚀 Projects:
 ### 📊 Sales Dashboard (Power BI)
-> Built an interactive dashboard to analyze sales performance · KPIs: Revenue, Profit, Region-wise Sales · Dynamic slicers for filtering · 📌 Power BI, Excel · [🔗 Project Link](#)
+> Built an interactive dashboard to analyze sales performance · KPIs: Revenue, Profit, Region-wise Sales · Dynamic slicers for filtering · 📌 Power BI, Excel · [🔗 Project Link](https://github.com/Arjun-Maurya-78/IPL-cricket-analytics)
 
 ### 🛒 E-commerce Data Analysis
 > Cleaned & analyzed dataset using Python · Pandas for preprocessing · Insights on customer behavior · 📌 Python, Pandas, Matplotlib · [🔗 Project Link](#)
