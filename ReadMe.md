@@ -14,10 +14,10 @@ Hi 👋, I'm Arjun Maurya<br><br>🎓 B.Sc. Information Technology at PTU, Punja
 
 ### 🛒E-Commerce-Dashboard(Power BI)
 > Interactive Power BI dashboard analyzing e-commerce sales, returns & payment trends across 150 orders, 9 categories & 4 regions — with DAX-powered KPIs and multi-page visual storytelling.[🔗 Project Link](https://github.com/Arjun-Maurya-78/E-Commerce-Dashboard)
-<!--
-### 📈 SQL Data Analysis
-> Joins, subqueries & aggregations · Solved business case problems · 📌 MySQL · [🔗 Project Link](#)
--->
+
+### 📊 HR Employee Analytics Dashboard — Power BI
+> Power bi HR-analytics data-visualization attrition-analysis DAX people-analytics workforce-analytics business-intelligence. [🔗 Project Link](HR-Employee-Analytics-Dashboard-Power-BI)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Arjun-Maurya-78&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
