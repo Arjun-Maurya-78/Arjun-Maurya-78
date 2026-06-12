@@ -9,15 +9,15 @@ Hi 👋, I'm Arjun Maurya<br><br>🎓 B.Sc. Information Technology at PTU, Punja
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 # 🚀 Projects:
+
+### 💼✨ HR ✨💼 Employee Analytics Dashboard — Power BI
+> Power bi HR-analytics data-visualization attrition-analysis DAX people-analytics workforce-analytics business-intelligence.[Project Link](https://github.com/Arjun-Maurya-78/HR-Employee-Analytics-Dashboard-Power-BI)
+
 ### 📊IPL-cricket-analytics (Power BI)
 > An end-to-end Power BI dashboard analyzing 200 IPL matches (2017–2023) across team performance, toss strategy, player impact, and venue attendance — built to simulate real-world sports analytics. [Project Link](https://github.com/Arjun-Maurya-78/IPL-cricket-analytics)
 
 ### 🛒E-Commerce-Dashboard(Power BI)
 > Interactive Power BI dashboard analyzing e-commerce sales, returns & payment trends across 150 orders, 9 categories & 4 regions — with DAX-powered KPIs and multi-page visual storytelling.[Project Link](https://github.com/Arjun-Maurya-78/E-Commerce-Dashboard)
-
-### 💼✨ HR ✨💼 Employee Analytics Dashboard — Power BI
-> Power bi HR-analytics data-visualization attrition-analysis DAX people-analytics workforce-analytics business-intelligence.[Project Link](https://github.com/Arjun-Maurya-78/HR-Employee-Analytics-Dashboard-Power-BI)
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Arjun-Maurya-78&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
